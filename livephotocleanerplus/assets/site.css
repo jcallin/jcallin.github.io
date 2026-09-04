@@ -187,7 +187,8 @@ li+li {
   grid-template-columns:repeat(3,1fr);
   gap:2.25rem}
 .step-number {
-  font-size:.875rem;
+  font-size:clamp(4rem,8vw,5rem);
+  line-height:1;
   display:block;
   color:var(--accent);
   font-weight:750;
@@ -385,4 +386,3 @@ details p {
   html {
   scroll-behavior:auto}
 }
-

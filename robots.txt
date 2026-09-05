@@ -1,21 +1,4 @@
-# Served at https://jcallin.github.io/robots.txt (the origin root).
-# Public Live Photo Cleaner+ pages are available to search engines and AI search.
-User-agent: OAI-SearchBot
-Allow: /livephotocleanerplus/
-
-User-agent: PerplexityBot
-Allow: /livephotocleanerplus/
-
-User-agent: Claude-SearchBot
-Allow: /livephotocleanerplus/
-
-User-agent: Googlebot
-Allow: /livephotocleanerplus/
-
-User-agent: Bingbot
-Allow: /livephotocleanerplus/
-
 User-agent: *
-Allow: /livephotocleanerplus/
+Allow: /
 
-Sitemap: https://jcallin.github.io/livephotocleanerplus/sitemap.xml
+Sitemap: https://livephotocleanerplus.com/sitemap.xml
